@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Agence du revenu du Canada"
-lang: en
+lang: fr
 permalink: "/arc/"
 trans_url: "/cra/"
 ---

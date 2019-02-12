@@ -5,5 +5,4 @@ lang: en
 permalink: "/cra/"
 trans_url: "/arc/"
 ---
-
-Test
+apple

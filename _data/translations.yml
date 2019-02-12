@@ -1,5 +1,5 @@
 en:
-  homepage-tag-line: "Everyone is a researcher."
+  homepage-tag-line: ""
   cds-snc: "Canadian Digital Service"
   cds-snc-url: "https://digital.canada.ca"
   hosting: "Hosted on"
@@ -13,9 +13,9 @@ en:
   code-and-repo-slug: "/technical/"
   language: "Français"
   homepage-slug: "/home/"
-  site-name: "Design research handbook"
+  site-name: "Canadian Digital Service research opportunities"
 fr:
-  homepage-tag-line: "French tagline"
+  homepage-tag-line: ""
   cds-snc: "Service numérique canadien"
   cds-snc-url: "https://numerique.canada.ca"
   hosting: "Hébergé dans"
@@ -29,4 +29,4 @@ fr:
   code-and-repo-slug: "/codes-et-referentiels/"
   language: "English"
   homepage-slug: "/accueil/"
-  site-name: "Design research handbook in French"
+  site-name: "Possibilités de recherche de services numériques canadiens"

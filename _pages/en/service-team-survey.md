@@ -12,7 +12,7 @@ title: Service team survey privacy statement
 
 By participating in this research, you consent that your role in your home department and information about what you learned with CDS will be collected.
 
-#### How we will use this information
+### How we will use this information
 
 The Canadian Digital Service (CDS) will use this information to help us understand the experience of the service teams who have spent time at CDS
 
@@ -22,7 +22,7 @@ This personal information will not be used for any “administrative purposes”
 
 CDS may publish or share with other government institutions a summary of what we have learned from this research, including quotes or narratives. Your name will not be associated with your responses, quotes, or narratives.
 
-#### Who we are
+### Who we are
 CDS is part of the Treasury Board of Canada Secretariat (TBS).
 
 The collection and use of your personal information by TBS is authorized by the Financial Administration Act.
@@ -33,15 +33,20 @@ The Standard Personal Information Bank entitled “Outreach Activities, PSU 938�
 
 PSU 938: http://www.infosource.gc.ca/emp/emp03-eng.asp#psu938
 
-#### Your legal rights
+### Your legal rights
 
 Due to the anonymity of responses, CDS will have no reliable means of associating you with your information provided. This means we will not be able to access or respond to your request for corrections to inaccurate information or withdrawal.
 CDS/TBS may record your personal information. If you want to access or correct that personal information, or for any questions or concerns, please contact their privacy office:
+
 TBS Access to Information and Privacy Coordinator
+
 ATIP.AIPRP@tbs-sct.gc.ca
+
 1-866-312-1511
 
 You can complain to the Office of the Privacy Commissioner of Canada about the handling of your personal information:
 Office of the Privacy Commissioner of Canada
+
 info@priv.gc.ca
+
 1-800-282-1376

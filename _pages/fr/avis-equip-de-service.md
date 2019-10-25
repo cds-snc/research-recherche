@@ -1,6 +1,6 @@
 ---
 layout: page
-lang: en
+lang: fr
 permalink: "/avis-equip-de-service/"
 trans_url: "/service-team-survey/"
 title: Avis de confidentialité

@@ -33,11 +33,17 @@ Le fichier de renseignements personnels ordinaires intitulé « Activités de se
 En raison de l’anonymat des réponses, le SNC n’aura aucun moyen fiable de vous associer à l’information que vous aurez fournie. Cela signifie que nous ne pourrons pas accéder ni répondre à votre demande de correction de renseignements inexacts ou de retrait d’informations.
 
 Le SNC/SCT peut enregistrer vos renseignements personnels. Si vous voulez accéder à ces renseignements personnels ou les corriger, ou pour toute autre raison ou préoccupation, veuillez communiquer avec le Bureau de l’accès à l’information et de la protection des renseignements personnels :
+
 Coordonnateur de l’accès à l’information et de la protection des renseignements personnels du SCT
+
 ATIP.AIPRP@tbs-sct.gc.ca
+
 1-866-312-1511
 
 Vous pouvez déposer une plainte au Commissariat à la protection de la vie privée du Canada quant à la gestion de vos renseignements personnels :
+
 Commissariat à la protection de la vie privée du Canada
+
 info@priv.gc.ca
+
 1-800-282-1376
